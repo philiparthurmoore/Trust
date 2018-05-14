@@ -8,3 +8,6 @@ Rudimentary
 ## V2
 Basic idea of app skeleton
 ![V2](prototypeV2.png)
+## V3
+Basic visual mockup of Trust
+![V3](prototypeV3.png)
